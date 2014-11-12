@@ -1,5 +1,4 @@
 
-
 // Store list of words in an array called "words". 
 var words = ['Andrew', 'Rusli', 'Phil', 'Angela', 'Jacquie']
 
@@ -12,3 +11,4 @@ var word_selector = function() {
 
 };
 
+//TEST JACQUI //
